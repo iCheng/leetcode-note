@@ -12641,3 +12641,12 @@ var removeElement = function(nums, val) {
 [383. 赎金信 - 力扣（LeetCode）](https://leetcode.cn/problems/ransom-note/)
 
 [15. 三数之和 - 力扣（LeetCode）](https://leetcode.cn/problems/3sum/description/)
+
+
+
+## 4 字符串
+
+344 反转字符串：https://leetcode.cn/problems/reverse-string/description/
+
+151 反转字符串中的单词：https://leetcode.cn/problems/reverse-words-in-a-string/description/
+
